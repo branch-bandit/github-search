@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.6afd856c.chunk.js",
-  "main.js.map": "/static/js/main.6afd856c.chunk.js.map",
-  "static/js/1.42ce2ab0.chunk.js": "/static/js/1.42ce2ab0.chunk.js",
-  "static/js/1.42ce2ab0.chunk.js.map": "/static/js/1.42ce2ab0.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.dd3633f050ab40921d74ee59a43152ce.js": "/precache-manifest.dd3633f050ab40921d74ee59a43152ce.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/github-search/static/js/main.6afd856c.chunk.js",
+  "main.js.map": "/github-search/static/js/main.6afd856c.chunk.js.map",
+  "static/js/1.42ce2ab0.chunk.js": "/github-search/static/js/1.42ce2ab0.chunk.js",
+  "static/js/1.42ce2ab0.chunk.js.map": "/github-search/static/js/1.42ce2ab0.chunk.js.map",
+  "runtime~main.js": "/github-search/static/js/runtime~main.ada2298c.js",
+  "runtime~main.js.map": "/github-search/static/js/runtime~main.ada2298c.js.map",
+  "index.html": "/github-search/index.html",
+  "precache-manifest.145bf48a71a94c121356d767c3f60441.js": "/github-search/precache-manifest.145bf48a71a94c121356d767c3f60441.js",
+  "service-worker.js": "/github-search/service-worker.js"
 }
